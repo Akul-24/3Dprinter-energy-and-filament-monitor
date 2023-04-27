@@ -1,0 +1,12 @@
+Here are some esp32 pin connections used in code (you can change them as you wish)
+
+Voltage divider: G34
+Current: G32  (connected to acs712 output trough 5v tp 3.3v voltage divider)
+Relay: G16  (connected trough transistor - pn2222 in my case)
+Addressable LED strip: G33
+Buzzer: G22
+Rotary encoder: G26, G25
+Switch (button): G27
+Screen backlight: G5
+Filament encoder: G17, G4
+Filament runout sensor: G35
