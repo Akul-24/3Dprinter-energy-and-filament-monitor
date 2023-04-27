@@ -1,0 +1,8 @@
+First download original Bodmer's TFT_eSPI library: https://github.com/Bodmer/TFT_eSPI
+
+If you are using ST7735 driver tft display:
+In User_Setup comment out all display drivers
+In User_Setup_Select uncomment #include <User_Setups/Setup2_ST7735.h> this line and comment out all other drivers
+Replace Setup2_ST7735.h file in User_Setups with file from this folder
+Copy and paste Segoe_UI font files to Fonts/GFXFF (not all fonts are used in code)
+Replace gfxfont.h file in Fonts/GFXFF
