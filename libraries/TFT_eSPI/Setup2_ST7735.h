@@ -8,11 +8,11 @@
 
 
 #define ST7735_REDTAB
-//#define ST7735_GREENTAB  x
-//#define ST7735_GREENTAB2 x
-//#define ST7735_GREENTAB3 x
-//#define ST7735_INITB     x
-//#define ST7735_BLACKTAB  x
+//#define ST7735_GREENTAB
+//#define ST7735_GREENTAB2
+//#define ST7735_GREENTAB3
+//#define ST7735_INITB
+//#define ST7735_BLACKTAB
 
 #define TFT_RGB_ORDER TFT_RGB  // Colour order Red-Green-Blue
 //#define TFT_RGB_ORDER TFT_BGR  // Colour order Blue-Green-Red
