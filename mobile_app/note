@@ -1,0 +1,6 @@
+App made using Mit app inventor to remotely controll everything.
+Mobile phone and OmnisPrint need to be connected to same network (local), its own acces point or trough google firebase.
+To connect to the network for the first time you'll need to connect your phone to "OmnisPrint" access point (by opening wifi/network on it),
+choose one of the found networks and send password to it trough app network menu.
+
+Filament settings part of the app does not work yet and there are some smaller bugs.
