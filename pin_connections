@@ -1,4 +1,4 @@
-Here are some esp32 pin connections used in code (you can change them as you wish)
+Here are some esp32 pin connections used in code (you can change them as you like)
 
 Voltage divider: G34
 Current: G32  (connected to acs712 output trough 5v tp 3.3v voltage divider)
