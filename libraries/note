@@ -1,4 +1,4 @@
-This is a slightly modified Bodmer's TFT_eSPI library configured to work with ST7735 tft lcd driver displays. 
-There are also some custom fonts added to GFXFF folder that are required for code to work.
+Here are slightly modified files from Bodmer's TFT_eSPI library configured to work with ST7735 tft lcd driver displays.
+There are also some custom fonts that are required for code to work.
 
 All other librartes are listed at the beginning of OmnisPrint_main.ino file.
