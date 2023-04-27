@@ -1,1 +1,3 @@
-
+First download original Bodmer's TFT_eSPI library: https://github.com/Bodmer/TFT_eSPI
+In User_Setup uncomment all display drivers
+In User_Setup_Select 
